@@ -1,0 +1,10 @@
+--- 
+title: WOEIP Air Quality 02-2010 
+owner: <a href="https://www.woeip.org/">WOEIP</a>
+layout: data
+month:8
+year: 2018
+categories: WOEIP
+resourceType: shift_by_month
+fileName: JoinedAirQualityAndGPSData2018-08-08 00:43:00.770182.csv
+---
